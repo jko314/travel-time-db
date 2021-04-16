@@ -1,0 +1,17 @@
+use iraddb
+db.laborRule.insert([
+ {
+   "LaborRule ID": "DEFAULT",
+   "Work Day - Min": 8,
+   "Work Day - Max": 12,
+   "Overtime - Day Start": 8,
+   "OvertimeDayMin": 0,
+   "OvertimeDayMax": 4,
+   "WorkWeekMin": 40,
+   "WorkWeekMax": "",
+   "OvertimeWeekStart": 40,
+   "OvertimeWeekMin": 0,
+   "OvertimeWeekMax": 20,
+   "WorkWeekDays": 5
+ }
+]);

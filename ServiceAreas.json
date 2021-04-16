@@ -1,0 +1,436 @@
+db.serviceArea.insert([
+ {
+   "Name": "ANC",
+   "City": "Anchorage",
+   "State": "AK",
+   "Latitude": 61.16666667,
+   "Longitude": -149.9833333
+ },
+ {
+   "Name": "ATL",
+   "City": "Atlanta",
+   "State": "GA",
+   "Latitude": 33.65,
+   "Longitude": -84.43333333
+ },
+ {
+   "Name": "BIL",
+   "City": "Billings",
+   "State": "MT",
+   "Latitude": 45.8,
+   "Longitude": -108.5333333
+ },
+ {
+   "Name": "BIS",
+   "City": "Bismarck",
+   "State": "ND",
+   "Latitude": 46.78333333,
+   "Longitude": -100.75
+ },
+ {
+   "Name": "BNA",
+   "City": "Nashville",
+   "State": "TN",
+   "Latitude": 36.13333333,
+   "Longitude": -86.68333333
+ },
+ {
+   "Name": "BOI",
+   "City": "Boise",
+   "State": "ID",
+   "Latitude": 43.56666667,
+   "Longitude": -116.2166667
+ },
+ {
+   "Name": "BOS",
+   "City": "Boston",
+   "State": "MA",
+   "Latitude": 42.36666667,
+   "Longitude": -71
+ },
+ {
+   "Name": "BWI",
+   "City": "Baltimore",
+   "State": "MD",
+   "Latitude": 39.16666667,
+   "Longitude": -76.66666667
+ },
+ {
+   "Name": "CLE",
+   "City": "Cleveland",
+   "State": "OH",
+   "Latitude": 41.41666667,
+   "Longitude": -81.85
+ },
+ {
+   "Name": "CLT",
+   "City": "Charlotte",
+   "State": "NC",
+   "Latitude": 35.21666667,
+   "Longitude": -80.93333333
+ },
+ {
+   "Name": "CRP",
+   "City": "Corpus Christi",
+   "State": "TX",
+   "Latitude": 27.76666667,
+   "Longitude": -97.5
+ },
+ {
+   "Name": "CVG",
+   "City": "Cincinnati",
+   "State": "KY",
+   "Latitude": 39.15,
+   "Longitude": -84.45
+ },
+ {
+   "Name": "DCA",
+   "City": "Washington",
+   "State": "VA",
+   "Latitude": 38.85,
+   "Longitude": -77.03333333
+ },
+ {
+   "Name": "DEN",
+   "City": "Denver",
+   "State": "CO",
+   "Latitude": 39.76666667,
+   "Longitude": -104.8833333
+ },
+ {
+   "Name": "DFW",
+   "City": "Dallas",
+   "State": "TX",
+   "Latitude": 32.76666667,
+   "Longitude": -96.78333333
+ },
+ {
+   "Name": "DRO",
+   "City": "Durango",
+   "State": "CO",
+   "Latitude": 37.15,
+   "Longitude": -107.75
+ },
+ {
+   "Name": "DTW",
+   "City": "Detroit",
+   "State": "MI",
+   "Latitude": 42.21944444,
+   "Longitude": -83.35
+ },
+ {
+   "Name": "ELP",
+   "City": "El Paso",
+   "State": "TX",
+   "Latitude": 31.8,
+   "Longitude": -106.3833333
+ },
+ {
+   "Name": "EWR",
+   "City": "Newark",
+   "State": "NJ",
+   "Latitude": 40.68333333,
+   "Longitude": -74.16666667
+ },
+ {
+   "Name": "FAI",
+   "City": "Fairbanks",
+   "State": "AK",
+   "Latitude": 64.81666667,
+   "Longitude": -147.8666667
+ },
+ {
+   "Name": "FLL",
+   "City": "Ft. Lauderdale",
+   "State": "FL",
+   "Latitude": 26.06666667,
+   "Longitude": -80.16666667
+ },
+ {
+   "Name": "GEG",
+   "City": "Spokane",
+   "State": "WA",
+   "Latitude": 47.63333333,
+   "Longitude": -117.5333333
+ },
+ {
+   "Name": "GRB",
+   "City": "Green Bay",
+   "State": "WI",
+   "Latitude": 44.48333333,
+   "Longitude": -88.13333333
+ },
+ {
+   "Name": "GUM",
+   "City": "Agana",
+   "State": "GU",
+   "Latitude": 13.48333333,
+   "Longitude": 144.7333333
+ },
+ {
+   "Name": "HNL",
+   "City": "Honolulu",
+   "State": "HI",
+   "Latitude": 21.33333333,
+   "Longitude": -157.9333333
+ },
+ {
+   "Name": "IAD",
+   "City": "Dulles",
+   "State": "VA",
+   "Latitude": 38.95,
+   "Longitude": -77.45
+ },
+ {
+   "Name": "IAH",
+   "City": "Houston",
+   "State": "TX",
+   "Latitude": 29.98333333,
+   "Longitude": -95.33333333
+ },
+ {
+   "Name": "IND",
+   "City": "Indianapolis",
+   "State": "IN",
+   "Latitude": 39.73333333,
+   "Longitude": -86.28333333
+ },
+ {
+   "Name": "JFK",
+   "City": "New York",
+   "State": "NY",
+   "Latitude": 40.63333333,
+   "Longitude": -73.78333333
+ },
+ {
+   "Name": "JNU",
+   "City": "Juneau",
+   "State": "AK",
+   "Latitude": 58.35,
+   "Longitude": -134.5833333
+ },
+ {
+   "Name": "LAS",
+   "City": "Las Vegas",
+   "State": "NV",
+   "Latitude": 36.08333333,
+   "Longitude": -115.1666667
+ },
+ {
+   "Name": "LAX",
+   "City": "Los Angeles",
+   "State": "CA",
+   "Latitude": 33.93333333,
+   "Longitude": -118.4
+ },
+ {
+   "Name": "LGA",
+   "City": "New York",
+   "State": "NY",
+   "Latitude": 40.76666667,
+   "Longitude": -73.86666667
+ },
+ {
+   "Name": "LIT",
+   "City": "Little Rock",
+   "State": "AR",
+   "Latitude": 34.73333333,
+   "Longitude": -92.23333333
+ },
+ {
+   "Name": "MAF",
+   "City": "Midland/Odessa",
+   "State": "TX",
+   "Latitude": 31.93333333,
+   "Longitude": -102.2
+ },
+ {
+   "Name": "MCI",
+   "City": "Kansas City",
+   "State": "MO",
+   "Latitude": 39.29166667,
+   "Longitude": -94.73055556
+ },
+ {
+   "Name": "MCO",
+   "City": "Orlando",
+   "State": "FL",
+   "Latitude": 28.45277778,
+   "Longitude": -81.33333333
+ },
+ {
+   "Name": "MDW",
+   "City": "Chicago",
+   "State": "IL",
+   "Latitude": 41.78333333,
+   "Longitude": -87.75
+ },
+ {
+   "Name": "MFR",
+   "City": "Medford",
+   "State": "OR",
+   "Latitude": 42.36666667,
+   "Longitude": -122.8666667
+ },
+ {
+   "Name": "MIA",
+   "City": "Miami",
+   "State": "FL",
+   "Latitude": 25.8,
+   "Longitude": -80.28333333
+ },
+ {
+   "Name": "MSP",
+   "City": "Minneapolis",
+   "State": "MN",
+   "Latitude": 44.9,
+   "Longitude": -93.21666667
+ },
+ {
+   "Name": "MSY",
+   "City": "New Orleans",
+   "State": "LA",
+   "Latitude": 29.95,
+   "Longitude": -90.06666667
+ },
+ {
+   "Name": "OAK",
+   "City": "Oakland",
+   "State": "CA",
+   "Latitude": 37.71666667,
+   "Longitude": -122.2166667
+ },
+ {
+   "Name": "OKC",
+   "City": "Oklahoma City",
+   "State": "OK",
+   "Latitude": 35.4,
+   "Longitude": -97.61666667
+ },
+ {
+   "Name": "OMA",
+   "City": "Omaha",
+   "State": "NE",
+   "Latitude": 41.3,
+   "Longitude": -95.9
+ },
+ {
+   "Name": "ORD",
+   "City": "Chicago",
+   "State": "IL",
+   "Latitude": 41.98333333,
+   "Longitude": -87.9
+ },
+ {
+   "Name": "PDX",
+   "City": "Portland",
+   "State": "OR",
+   "Latitude": 45.58333333,
+   "Longitude": -122.6
+ },
+ {
+   "Name": "PHL",
+   "City": "Philadelphia",
+   "State": "PA",
+   "Latitude": 39.88333333,
+   "Longitude": -75.23333333
+ },
+ {
+   "Name": "PHX",
+   "City": "Phoenix",
+   "State": "AZ",
+   "Latitude": 33.43333333,
+   "Longitude": -112.0333333
+ },
+ {
+   "Name": "PIT",
+   "City": "Pittsburgh",
+   "State": "PA",
+   "Latitude": 40.43333333,
+   "Longitude": -79.98333333
+ },
+ {
+   "Name": "PNS",
+   "City": "Pensacola",
+   "State": "FL",
+   "Latitude": 30.46666667,
+   "Longitude": -87.18333333
+ },
+ {
+   "Name": "RAP",
+   "City": "Rapid City",
+   "State": "SD",
+   "Latitude": 44.03333333,
+   "Longitude": -103.05
+ },
+ {
+   "Name": "RDU",
+   "City": "Raleigh/Durham",
+   "State": "NC",
+   "Latitude": 35.76666667,
+   "Longitude": -78.63333333
+ },
+ {
+   "Name": "ROC",
+   "City": "Rochester Monroe",
+   "State": "NY",
+   "Latitude": 43.11666667,
+   "Longitude": -77.66666667
+ },
+ {
+   "Name": "SAN",
+   "City": "San Diego",
+   "State": "CA",
+   "Latitude": 32.73333333,
+   "Longitude": -117.1833333
+ },
+ {
+   "Name": "SAV",
+   "City": "Savannah",
+   "State": "GA",
+   "Latitude": 32.13333333,
+   "Longitude": -81.2
+ },
+ {
+   "Name": "SEA",
+   "City": "Seattle/Tacoma",
+   "State": "WA",
+   "Latitude": 47.45,
+   "Longitude": -122.3
+ },
+ {
+   "Name": "SFO",
+   "City": "San Francisco",
+   "State": "CA",
+   "Latitude": 37.61666667,
+   "Longitude": -122.3833333
+ },
+ {
+   "Name": "SJU",
+   "City": "San Juan",
+   "State": "PR",
+   "Latitude": 18.45,
+   "Longitude": -66
+ },
+ {
+   "Name": "SLC",
+   "City": "Salt Lake City",
+   "State": "UT",
+   "Latitude": 40.78333333,
+   "Longitude": -111.9666667
+ },
+ {
+   "Name": "STL",
+   "City": "St. Louis",
+   "State": "MO",
+   "Latitude": 38.61666667,
+   "Longitude": -90.18333333
+ },
+ {
+   "Name": "TPA",
+   "City": "Tampa",
+   "State": "FL",
+   "Latitude": 27.96666667,
+   "Longitude": -82.53333333
+ }
+]);

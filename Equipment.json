@@ -1,0 +1,8 @@
+use iraddb
+db.equipment.insert([
+ {
+   "EquipmentID": "",
+   "MakeModel": "",
+   "Airport": ""
+ }
+]);

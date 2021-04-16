@@ -1,0 +1,3194 @@
+db.travelCost.insert([
+ {
+   "Facility": "A.ABE",
+   "Lodging": "$91.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ABI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ABQ",
+   "Lodging": "$80.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ABR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ABY",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ACK",
+   "Lodging": "$206.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ACT",
+   "Lodging": "$85.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ACV",
+   "Lodging": "$89.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ACY",
+   "Lodging": "$117.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ADK",
+   "Lodging": "$120.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ADQ",
+   "Lodging": "$136.00",
+   "PerDiem": "$68.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AEX",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AGS",
+   "Lodging": "$79.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AHN",
+   "Lodging": "$90.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AIA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AKN",
+   "Lodging": "$225.00",
+   "PerDiem": "$73.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ALB",
+   "Lodging": "$111.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ALO",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ALS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ALW",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AMA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ANC",
+   "Lodging": "$181.00",
+   "PerDiem": "$78.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AOO",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.APF",
+   "Lodging": "$221.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.APN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ART",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ASE",
+   "Lodging": "$223.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ATL",
+   "Lodging": "$141.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ATW",
+   "Lodging": "$81.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ATY",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AUG",
+   "Lodging": "$79.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AUS",
+   "Lodging": "$114.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AVL",
+   "Lodging": "$94.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AVP",
+   "Lodging": "$80.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.AZO",
+   "Lodging": "$86.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BDL",
+   "Lodging": "$112.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BED",
+   "Lodging": "$95.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BET",
+   "Lodging": "$139.00",
+   "PerDiem": "$70.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BFD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BFF",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BFL",
+   "Lodging": "$78.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BGM",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BGR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BHB",
+   "Lodging": "$143.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BHM",
+   "Lodging": "$94.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BIL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BIS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BJI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BKW",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BLI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BLV",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BMI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BNA",
+   "Lodging": "$117.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BOI",
+   "Lodging": "$86.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BOS",
+   "Lodging": "$256.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BPK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BPT",
+   "Lodging": "$82.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BQK",
+   "Lodging": "$146.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BQN",
+   "Lodging": "$75.00",
+   "PerDiem": "$51.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BRD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BRL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BRO",
+   "Lodging": "$110.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BRW",
+   "Lodging": "$159.00",
+   "PerDiem": "$76.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BTM",
+   "Lodging": "$80.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BTR",
+   "Lodging": "$101.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BTV",
+   "Lodging": "$105.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BUF",
+   "Lodging": "$87.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BUR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BWI",
+   "Lodging": "$172.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.BZN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CAE",
+   "Lodging": "$92.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CAK",
+   "Lodging": "$90.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CDC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CDR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CDV",
+   "Lodging": "$95.00",
+   "PerDiem": "$63.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CEC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CEF",
+   "Lodging": "$96.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CEZ",
+   "Lodging": "$102.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CGI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CHA",
+   "Lodging": "$87.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CHO",
+   "Lodging": "$100.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CHS",
+   "Lodging": "$141.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CIC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CID",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CIU",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CKB",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CLE",
+   "Lodging": "$110.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CLL",
+   "Lodging": "$86.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CLT",
+   "Lodging": "$97.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CMH",
+   "Lodging": "$105.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CMI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CMX",
+   "Lodging": "$143.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CNY",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.COD",
+   "Lodging": "$110.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.COS",
+   "Lodging": "$88.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.COU",
+   "Lodging": "$79.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CPR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CRP",
+   "Lodging": "$89.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CRQ",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CRW",
+   "Lodging": "$95.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CSG",
+   "Lodging": "$92.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CVG",
+   "Lodging": "$112.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CWA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.CYS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DAB",
+   "Lodging": "$117.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DAL",
+   "Lodging": "$129.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DAY",
+   "Lodging": "$84.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DBQ",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DCA",
+   "Lodging": "$233.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DDC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DEC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DEN",
+   "Lodging": "$149.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DFW",
+   "Lodging": "$129.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DHN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DIK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DLG",
+   "Lodging": "$185.00",
+   "PerDiem": "$66.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DLH",
+   "Lodging": "$103.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DRO",
+   "Lodging": "$125.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DRT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DSM",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DTW",
+   "Lodging": "$107.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DUJ",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.DVL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EAR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EAT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EAU",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EGE",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EKO",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ELD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ELM",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ELP",
+   "Lodging": "$92.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ELY",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ENA",
+   "Lodging": "$129.00",
+   "PerDiem": "$74.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ENV",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ERI",
+   "Lodging": "$92.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ESC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EUG",
+   "Lodging": "$100.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EVV",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EWN",
+   "Lodging": "$89.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EWR",
+   "Lodging": "$133.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.EYW",
+   "Lodging": "$243.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FAI",
+   "Lodging": "$175.00",
+   "PerDiem": "$70.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FAR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FAT",
+   "Lodging": "$95.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FAY",
+   "Lodging": "$85.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FKL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FLG",
+   "Lodging": "$93.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FLL",
+   "Lodging": "$176.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FLO",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FMN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FNL",
+   "Lodging": "$93.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FNT",
+   "Lodging": "$80.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FOD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FOE",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FSD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FSM",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.FWA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GBD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GCC",
+   "Lodging": "$104.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GCK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GEG",
+   "Lodging": "$83.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GFK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GGG",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GJT",
+   "Lodging": "$91.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GLH",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GNV",
+   "Lodging": "$93.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GPI",
+   "Lodging": "$106.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GPT",
+   "Lodging": "$80.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GRB",
+   "Lodging": "$75.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GRI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GRK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GRO",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GRR",
+   "Lodging": "$84.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GSN",
+   "Lodging": "$121.00",
+   "PerDiem": "$79.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GSO",
+   "Lodging": "$89.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GSP",
+   "Lodging": "$92.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GST",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GTF",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GTR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GUC",
+   "Lodging": "$188.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GUM",
+   "Lodging": "$135.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.GYY",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HDN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HGR",
+   "Lodging": "$76.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HIB",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HLN",
+   "Lodging": "$77.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HNL",
+   "Lodging": "$177.00",
+   "PerDiem": "$85.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HOM",
+   "Lodging": "$167.00",
+   "PerDiem": "$68.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HON",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HOT",
+   "Lodging": "$98.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HOU",
+   "Lodging": "$110.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HPN",
+   "Lodging": "$164.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HRL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HRO",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HSV",
+   "Lodging": "$84.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HTS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HVN",
+   "Lodging": "$96.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HXD",
+   "Lodging": "$114.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HYA",
+   "Lodging": "$118.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.HYS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IAD",
+   "Lodging": "$140.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IAG",
+   "Lodging": "$97.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IAH",
+   "Lodging": "$110.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ICT",
+   "Lodging": "$86.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IDA",
+   "Lodging": "$76.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IFP",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IGM",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ILM",
+   "Lodging": "$109.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IMT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IND",
+   "Lodging": "$94.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.INL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IPL",
+   "Lodging": "$76.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IPT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IRK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ISN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ISO",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ISP",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ITH",
+   "Lodging": "$102.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ITO",
+   "Lodging": "$115.00",
+   "PerDiem": "$83.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IWA",
+   "Lodging": "$122.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IWD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.IYK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JAC",
+   "Lodging": "$164.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JAN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JAX",
+   "Lodging": "$89.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JBR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JFK",
+   "Lodging": "$360.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JHM",
+   "Lodging": "$169.00",
+   "PerDiem": "$83.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JHW",
+   "Lodging": "$178.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JLN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JMS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JNU",
+   "Lodging": "$149.00",
+   "PerDiem": "$68.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JRB",
+   "Lodging": "$360.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.JST",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.KOA",
+   "Lodging": "$180.00",
+   "PerDiem": "$86.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.KTN",
+   "Lodging": "$140.00",
+   "PerDiem": "$66.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LAN",
+   "Lodging": "$81.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LAR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LAS",
+   "Lodging": "$126.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LAW",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LAX",
+   "Lodging": "$128.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LBB",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LBE",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LBF",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LBL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LCH",
+   "Lodging": "$80.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LCK",
+   "Lodging": "$105.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LEB",
+   "Lodging": "$99.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LEX",
+   "Lodging": "$91.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LFT",
+   "Lodging": "$86.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LGA",
+   "Lodging": "$360.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LGB",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LIH",
+   "Lodging": "$198.00",
+   "PerDiem": "$92.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LIT",
+   "Lodging": "$88.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LMT",
+   "Lodging": "$87.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LNK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LNS",
+   "Lodging": "$95.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LNY",
+   "Lodging": "$229.00",
+   "PerDiem": "$99.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LRD",
+   "Lodging": "$88.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LSE",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LWB",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LWS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LWT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.LYH",
+   "Lodging": "$78.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MAF",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MBL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MBS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MCE",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MCI",
+   "Lodging": "$107.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MCK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MCN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MCO",
+   "Lodging": "$133.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MCW",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MDT",
+   "Lodging": "$99.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MDW",
+   "Lodging": "$218.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MEI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MEM",
+   "Lodging": "$99.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MFE",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MFR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MGM",
+   "Lodging": "$80.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MGW",
+   "Lodging": "$83.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MHK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MHT",
+   "Lodging": "$98.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MIA",
+   "Lodging": "$149.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MKE",
+   "Lodging": "$99.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MKG",
+   "Lodging": "$88.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MKK",
+   "Lodging": "$180.00",
+   "PerDiem": "$86.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MKL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MLB",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MLI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MLS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MLU",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MOB",
+   "Lodging": "$94.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MOD",
+   "Lodging": "$89.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MOT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MRY",
+   "Lodging": "$133.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MSL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MSN",
+   "Lodging": "$90.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MSO",
+   "Lodging": "$106.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MSP",
+   "Lodging": "$130.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MSS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MSY",
+   "Lodging": "$140.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MTJ",
+   "Lodging": "$93.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MVY",
+   "Lodging": "$186.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MWA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.MYR",
+   "Lodging": "$114.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.NA1",
+   "Lodging": "$149.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.NA2",
+   "Lodging": "$0.00",
+   "PerDiem": "$0.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.NA3",
+   "Lodging": "$0.00",
+   "PerDiem": "$0.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.NA4",
+   "Lodging": "$0.00",
+   "PerDiem": "$0.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.NYL",
+   "Lodging": "$86.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OAJ",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OAK",
+   "Lodging": "$106.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OGG",
+   "Lodging": "$169.00",
+   "PerDiem": "$83.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OGS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OKC",
+   "Lodging": "$83.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OMA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OME",
+   "Lodging": "$135.00",
+   "PerDiem": "$78.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ONT",
+   "Lodging": "$97.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ORD",
+   "Lodging": "$218.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ORF",
+   "Lodging": "$96.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ORH",
+   "Lodging": "$96.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OTH",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OTZ",
+   "Lodging": "$179.00",
+   "PerDiem": "$74.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OWB",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.OXR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PAH",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PBG",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PBI",
+   "Lodging": "$145.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PDT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PDX",
+   "Lodging": "$116.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PFN",
+   "Lodging": "$146.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PGA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PGV",
+   "Lodging": "$80.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PHF",
+   "Lodging": "$81.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PHL",
+   "Lodging": "$166.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PHX",
+   "Lodging": "$160.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PIA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PIB",
+   "Lodging": "$76.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PIE",
+   "Lodging": "$127.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PIH",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PIR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PIT",
+   "Lodging": "$114.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PKB",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PLN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PMD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PNS",
+   "Lodging": "$107.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PPG",
+   "Lodging": "$122.00",
+   "PerDiem": "$58.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PQI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PRC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PSC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PSE",
+   "Lodging": "$139.00",
+   "PerDiem": "$66.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PSG",
+   "Lodging": "$100.00",
+   "PerDiem": "$57.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PSM",
+   "Lodging": "$132.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PSP",
+   "Lodging": "$139.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PUB",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PUW",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PVC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PVD",
+   "Lodging": "$145.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.PWM",
+   "Lodging": "$113.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RAP",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RDD",
+   "Lodging": "$86.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RDG",
+   "Lodging": "$98.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RDM",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RDU",
+   "Lodging": "$92.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RFD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RHI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RIC",
+   "Lodging": "$129.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RIW",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RKD",
+   "Lodging": "$78.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RKS",
+   "Lodging": "$91.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RME",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RNO",
+   "Lodging": "$149.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ROA",
+   "Lodging": "$96.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ROC",
+   "Lodging": "$101.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.ROW",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RST",
+   "Lodging": "$95.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RSW",
+   "Lodging": "$128.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.RUT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SAF",
+   "Lodging": "$86.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SAN",
+   "Lodging": "$147.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SAT",
+   "Lodging": "$117.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SAV",
+   "Lodging": "$108.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SAW",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SBA",
+   "Lodging": "$194.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SBN",
+   "Lodging": "$95.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SBP",
+   "Lodging": "$131.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SBY",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SCC",
+   "Lodging": "$119.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SCK",
+   "Lodging": "$83.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SDF",
+   "Lodging": "$103.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SDY",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SEA",
+   "Lodging": "$153.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SFB",
+   "Lodging": "$133.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SFO",
+   "Lodging": "$185.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SGF",
+   "Lodging": "$76.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SGU",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SHD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SHR",
+   "Lodging": "$90.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SHV",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SIT",
+   "Lodging": "$119.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SJC",
+   "Lodging": "$132.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SJT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SJU",
+   "Lodging": "$195.00",
+   "PerDiem": "$66.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SLC",
+   "Lodging": "$116.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SLE",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SLK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SLN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SMF",
+   "Lodging": "$114.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SMX",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SNA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SOW",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SPI",
+   "Lodging": "$83.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SPS",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SRQ",
+   "Lodging": "$143.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.STC",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.STL",
+   "Lodging": "$111.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.STS",
+   "Lodging": "$118.00",
+   "PerDiem": "$64.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.STT",
+   "Lodging": "$299.00",
+   "PerDiem": "$89.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.STX",
+   "Lodging": "$187.00",
+   "PerDiem": "$78.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SUN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SUX",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SWF",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.SYR",
+   "Lodging": "$94.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TBN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TEX",
+   "Lodging": "$211.00",
+   "PerDiem": "$59.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TLH",
+   "Lodging": "$89.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TNI",
+   "Lodging": "$138.00",
+   "PerDiem": "$57.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TOL",
+   "Lodging": "$81.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TPA",
+   "Lodging": "$127.00",
+   "PerDiem": "$54.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TRI",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TUL",
+   "Lodging": "$79.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TUP",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TUS",
+   "Lodging": "$124.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TVC",
+   "Lodging": "$118.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TVF",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TWF",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TXK",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TYR",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.TYS",
+   "Lodging": "$83.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.UIN",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.UNV",
+   "Lodging": "$88.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.UTA",
+   "Lodging": "$81.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.VCT",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.VDZ",
+   "Lodging": "$159.00",
+   "PerDiem": "$70.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.VEL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.VIS",
+   "Lodging": "$83.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.VLD",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.VPS",
+   "Lodging": "$176.00",
+   "PerDiem": "$44.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.WRG",
+   "Lodging": "$140.00",
+   "PerDiem": "$66.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.WRL",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.WYS",
+   "Lodging": "$107.00",
+   "PerDiem": "$49.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.XNA",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.YAK",
+   "Lodging": "$105.00",
+   "PerDiem": "$61.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.YKM",
+   "Lodging": "$70.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ },
+ {
+   "Facility": "A.YNG",
+   "Lodging": "$82.00",
+   "PerDiem": "$39.00",
+   "RentalCar": "$41.00",
+   "FacilityParking": "$9.00"
+ }
+]);

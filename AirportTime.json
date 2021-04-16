@@ -1,0 +1,17 @@
+use iraddb
+db.airportTime.insert([
+ {
+   "FacilityID": "",
+   "Parking": "",
+   "Enter": "",
+   "GreetDayOne": "",
+   "GreetDayN": "",
+   "Exit": "",
+   "PMWait": "",
+   "PMSignOff": "",
+   "CriticalCMWait": "",
+   "Non-CriticalCMWait": "",
+   "CMSignOff": "",
+   "FIELD12": ""
+ }
+]);

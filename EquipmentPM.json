@@ -1,0 +1,234 @@
+use iraddb
+db.equipmentPM.insert([
+ {
+   "MakeModel": "ProVision",
+   "Name": "ProVision",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 4,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "AT2",
+   "Name": "AT2",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 1,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "620DV",
+   "Name": "620DV",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 3.5,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "DVAT2",
+   "Name": "DVAT2",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 3.5,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "Smiths AT",
+   "Name": "Smiths AT",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 1.5,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "ATIX2",
+   "Name": "ATIX2",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 1.5,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "BLS",
+   "Name": "BLS",
+   "Periodicity": "NoPM",
+   "AllowedSlack": 10,
+   "LaborInitial": 0,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 0
+ },
+ {
+   "MakeModel": "Responder",
+   "Name": "Responder",
+   "Periodicity": "NoPM",
+   "AllowedSlack": 10,
+   "LaborInitial": 0,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 0
+ },
+ {
+   "MakeModel": "02PN20",
+   "Name": "02PN20",
+   "Periodicity": "NoPM",
+   "AllowedSlack": 10,
+   "LaborInitial": 0,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 0
+ },
+ {
+   "MakeModel": "PD6500i",
+   "Name": "PD6500i",
+   "Periodicity": "NoPM",
+   "AllowedSlack": 10,
+   "LaborInitial": 0,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 0
+ },
+ {
+   "MakeModel": "ITEMISER",
+   "Name": "ITEMISER",
+   "Periodicity": "Monthly",
+   "AllowedSlack": 10,
+   "LaborInitial": 0.75,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "ITEMISER DX",
+   "Name": "ITEMISER DX",
+   "Periodicity": "Monthly",
+   "AllowedSlack": 10,
+   "LaborInitial": 0.75,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "IONSCAN 500DT-S",
+   "Name": "IONSCAN 500DT-S",
+   "Periodicity": "Monthly",
+   "AllowedSlack": 10,
+   "LaborInitial": 1.25,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "IONSCAN 400B",
+   "Name": "IONSCAN 400B",
+   "Periodicity": "Monthly",
+   "AllowedSlack": 10,
+   "LaborInitial": 1.25,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "SABRE 4000",
+   "Name": "SABRE 4000",
+   "Periodicity": "NoPM",
+   "AllowedSlack": 10,
+   "LaborInitial": 0,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 0
+ },
+ {
+   "MakeModel": "MMTD",
+   "Name": "MMTD",
+   "Periodicity": "NoPM",
+   "AllowedSlack": 10,
+   "LaborInitial": 0,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "520B/TRXU",
+   "Name": "520B/TRXU",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 3,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "522B/TRXU",
+   "Name": "522B/TRXU",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 3,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "6040i",
+   "Name": "6040i",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 4,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "7555i",
+   "Name": "7555i",
+   "Periodicity": "SemiAnnually",
+   "AllowedSlack": 10,
+   "LaborInitial": 4,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ },
+ {
+   "MakeModel": "QS-B220",
+   "Name": "QS-B220",
+   "Periodicity": "Annually",
+   "AllowedSlack": 10,
+   "LaborInitial": 1,
+   "LaborWait": 0,
+   "LaborFinal": 0,
+   "ConsumablesCost": 0,
+   "TechnicianCount": 1
+ }
+])

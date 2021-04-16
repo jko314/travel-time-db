@@ -1,0 +1,3195 @@
+use iraddb
+db.airportServiceArea.insert([
+ {
+   "AirportCode": "ABE",
+   "ServiceArea": "PHL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "ABI",
+   "ServiceArea": "MAF",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "ABQ",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.5
+ },
+ {
+   "AirportCode": "ABR",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "ABY",
+   "ServiceArea": "ATL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "ACK",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "ACT",
+   "ServiceArea": "DFW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "ACV",
+   "ServiceArea": "MFR",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "ACY",
+   "ServiceArea": "PHL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "ADK",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "ADQ",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "AEX",
+   "ServiceArea": "MSY",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "AGS",
+   "ServiceArea": "SAV",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "AHN",
+   "ServiceArea": "ATL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "AIA",
+   "ServiceArea": "RAP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "AKN",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "ALB",
+   "ServiceArea": "LGA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "ALO",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "ALS",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "ALW",
+   "ServiceArea": "GEG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "AMA",
+   "ServiceArea": "MAF",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5
+ },
+ {
+   "AirportCode": "ANC",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "AOO",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "APF",
+   "ServiceArea": "MIA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "APN",
+   "ServiceArea": "DTW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.25
+ },
+ {
+   "AirportCode": "ART",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "ASE",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "ATL",
+   "ServiceArea": "ATL",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "ATW",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.75
+ },
+ {
+   "AirportCode": "ATY",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.25
+ },
+ {
+   "AirportCode": "AUG",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "AUS",
+   "ServiceArea": "IAH",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "AVL",
+   "ServiceArea": "CLT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "AVP",
+   "ServiceArea": "EWR",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "AZO",
+   "ServiceArea": "DTW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "BDL",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "BED",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.5
+ },
+ {
+   "AirportCode": "BET",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "BFD",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "BFF",
+   "ServiceArea": "RAP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "BFL",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "BGM",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "BGR",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "BHB",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.25
+ },
+ {
+   "AirportCode": "BHM",
+   "ServiceArea": "ATL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "BIL",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "BIS",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "BJI",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "BKW",
+   "ServiceArea": "CLT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "BLI",
+   "ServiceArea": "SEA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "BLV",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.5
+ },
+ {
+   "AirportCode": "BMI",
+   "ServiceArea": "MDW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "BNA",
+   "ServiceArea": "BNA",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "BOI",
+   "ServiceArea": "BOI",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "BOS",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "BPK",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "BPT",
+   "ServiceArea": "IAH",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "BQK",
+   "ServiceArea": "SAV",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "BQN",
+   "ServiceArea": "SJU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "BRD",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "BRL",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "BRO",
+   "ServiceArea": "CRP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "BRW",
+   "ServiceArea": "FAI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "BTM",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.5
+ },
+ {
+   "AirportCode": "BTR",
+   "ServiceArea": "MSY",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "BTV",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "BUF",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "BUR",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.75
+ },
+ {
+   "AirportCode": "BWI",
+   "ServiceArea": "BWI",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "BZN",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "CAE",
+   "ServiceArea": "CLT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "CAK",
+   "ServiceArea": "CLE",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.75
+ },
+ {
+   "AirportCode": "CDC",
+   "ServiceArea": "LAS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "CDR",
+   "ServiceArea": "RAP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "CDV",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "CEC",
+   "ServiceArea": "MFR",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "CEF",
+   "ServiceArea": "LGA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "CEZ",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "CGI",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "CHA",
+   "ServiceArea": "ATL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "CHO",
+   "ServiceArea": "IAD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "CHS",
+   "ServiceArea": "SAV",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "CIC",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "CID",
+   "ServiceArea": "ORD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "CIU",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.25
+ },
+ {
+   "AirportCode": "CKB",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "CLE",
+   "ServiceArea": "CLE",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "CLL",
+   "ServiceArea": "IAH",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "CLT",
+   "ServiceArea": "CLT",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "CMH",
+   "ServiceArea": "CVG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "CMI",
+   "ServiceArea": "IND",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "CMX",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "CNY",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "COD",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "COS",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "COU",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "CPR",
+   "ServiceArea": "RAP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.5
+ },
+ {
+   "AirportCode": "CRP",
+   "ServiceArea": "CRP",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "CRQ",
+   "ServiceArea": "SAN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.75
+ },
+ {
+   "AirportCode": "CRW",
+   "ServiceArea": "CVG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "CSG",
+   "ServiceArea": "ATL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "CVG",
+   "ServiceArea": "CVG",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "CWA",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "CYS",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "DAB",
+   "ServiceArea": "MCO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "DAL",
+   "ServiceArea": "DFW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.25
+ },
+ {
+   "AirportCode": "DAY",
+   "ServiceArea": "CVG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "DBQ",
+   "ServiceArea": "ORD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "DCA",
+   "ServiceArea": "DCA",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "DDC",
+   "ServiceArea": "OKC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.25
+ },
+ {
+   "AirportCode": "DEC",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "DEN",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "DFW",
+   "ServiceArea": "DFW",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "DHN",
+   "ServiceArea": "PNS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "DIK",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "DLG",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "DLH",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "DRO",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "DRT",
+   "ServiceArea": "MAF",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "DSM",
+   "ServiceArea": "OMA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "DTW",
+   "ServiceArea": "DTW",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "DUJ",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "DVL",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "EAR",
+   "ServiceArea": "OMA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "EAT",
+   "ServiceArea": "SEA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "EAU",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "EGE",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "EKO",
+   "ServiceArea": "BOI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.75
+ },
+ {
+   "AirportCode": "ELD",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "ELM",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "ELP",
+   "ServiceArea": "ELP",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "ELY",
+   "ServiceArea": "SLC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "ENA",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "ENV",
+   "ServiceArea": "SLC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "ERI",
+   "ServiceArea": "CLE",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "ESC",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "EUG",
+   "ServiceArea": "PDX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "EVV",
+   "ServiceArea": "IND",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "EWN",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "EWR",
+   "ServiceArea": "EWR",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "EYW",
+   "ServiceArea": "MIA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "FAI",
+   "ServiceArea": "FAI",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "FAR",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "FAT",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "FAY",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "FKL",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "FLG",
+   "ServiceArea": "PHX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "FLL",
+   "ServiceArea": "FLL",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "FLO",
+   "ServiceArea": "CLT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "FMN",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "FNL",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "FNT",
+   "ServiceArea": "DTW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "FOD",
+   "ServiceArea": "OMA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "FOE",
+   "ServiceArea": "MCI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "FSD",
+   "ServiceArea": "OMA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "FSM",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "FWA",
+   "ServiceArea": "IND",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "GBD",
+   "ServiceArea": "OKC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.75
+ },
+ {
+   "AirportCode": "GCC",
+   "ServiceArea": "RAP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "GCK",
+   "ServiceArea": "OKC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "GEG",
+   "ServiceArea": "GEG",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "GFK",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.25
+ },
+ {
+   "AirportCode": "GGG",
+   "ServiceArea": "DFW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "GJT",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "GLH",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "GNV",
+   "ServiceArea": "MCO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "GPI",
+   "ServiceArea": "GEG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5
+ },
+ {
+   "AirportCode": "GPT",
+   "ServiceArea": "MSY",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "GRB",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "GRI",
+   "ServiceArea": "OMA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "GRK",
+   "ServiceArea": "DFW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "GRO",
+   "ServiceArea": "GUM",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "GRR",
+   "ServiceArea": "DTW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "GSN",
+   "ServiceArea": "GUM",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "GSO",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "GSP",
+   "ServiceArea": "CLT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "GST",
+   "ServiceArea": "JNU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.25
+ },
+ {
+   "AirportCode": "GTF",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.5
+ },
+ {
+   "AirportCode": "GTR",
+   "ServiceArea": "BNA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6.25
+ },
+ {
+   "AirportCode": "GUC",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "GUM",
+   "ServiceArea": "GUM",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "GYY",
+   "ServiceArea": "MDW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.5
+ },
+ {
+   "AirportCode": "HDN",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "HGR",
+   "ServiceArea": "IAD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "HIB",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "HLN",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "HNL",
+   "ServiceArea": "HNL",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "HOM",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "HON",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.75
+ },
+ {
+   "AirportCode": "HOT",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "HOU",
+   "ServiceArea": "IAH",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.75
+ },
+ {
+   "AirportCode": "HPN",
+   "ServiceArea": "LGA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.5
+ },
+ {
+   "AirportCode": "HRL",
+   "ServiceArea": "CRP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "HRO",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "HSV",
+   "ServiceArea": "BNA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "HTS",
+   "ServiceArea": "CVG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "HVN",
+   "ServiceArea": "JFK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "HXD",
+   "ServiceArea": "SAV",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.75
+ },
+ {
+   "AirportCode": "HYA",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "HYS",
+   "ServiceArea": "OMA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6.75
+ },
+ {
+   "AirportCode": "IAD",
+   "ServiceArea": "IAD",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "IAG",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "IAH",
+   "ServiceArea": "IAH",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "ICT",
+   "ServiceArea": "OKC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "IDA",
+   "ServiceArea": "SLC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "IFP",
+   "ServiceArea": "LAS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "IGM",
+   "ServiceArea": "LAS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "ILM",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "IMT",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "IND",
+   "ServiceArea": "IND",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "INL",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "IPL",
+   "ServiceArea": "SAN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "IPT",
+   "ServiceArea": "PHL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "IRK",
+   "ServiceArea": "MCI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "ISN",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "ISO",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "ISP",
+   "ServiceArea": "JFK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "ITH",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "ITO",
+   "ServiceArea": "HNL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "IWA",
+   "ServiceArea": "PHX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.5
+ },
+ {
+   "AirportCode": "IWD",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.5
+ },
+ {
+   "AirportCode": "IYK",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "JAC",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.5
+ },
+ {
+   "AirportCode": "JAN",
+   "ServiceArea": "MSY",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "JAX",
+   "ServiceArea": "SAV",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "JBR",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "JFK",
+   "ServiceArea": "JFK",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "JHM",
+   "ServiceArea": "HNL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "JHW",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "JLN",
+   "ServiceArea": "MCI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "JMS",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "JNU",
+   "ServiceArea": "JNU",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "JRB",
+   "ServiceArea": "LGA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.25
+ },
+ {
+   "AirportCode": "JST",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "KOA",
+   "ServiceArea": "HNL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "KTN",
+   "ServiceArea": "JNU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.25
+ },
+ {
+   "AirportCode": "LAN",
+   "ServiceArea": "DTW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "LAR",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "LAS",
+   "ServiceArea": "LAS",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "LAW",
+   "ServiceArea": "OKC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "LAX",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "LBB",
+   "ServiceArea": "MAF",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "LBE",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.75
+ },
+ {
+   "AirportCode": "LBF",
+   "ServiceArea": "RAP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 7.25
+ },
+ {
+   "AirportCode": "LBL",
+   "ServiceArea": "OKC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5
+ },
+ {
+   "AirportCode": "LCH",
+   "ServiceArea": "IAH",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "LCK",
+   "ServiceArea": "CVG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "LEB",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "LEX",
+   "ServiceArea": "CVG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "LFT",
+   "ServiceArea": "MSY",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "LGA",
+   "ServiceArea": "LGA",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "LGB",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.5
+ },
+ {
+   "AirportCode": "LIH",
+   "ServiceArea": "HNL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "LIT",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "LMT",
+   "ServiceArea": "MFR",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "LNK",
+   "ServiceArea": "OMA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "LNS",
+   "ServiceArea": "PHL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "LNY",
+   "ServiceArea": "HNL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "LRD",
+   "ServiceArea": "CRP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "LSE",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "LWB",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.25
+ },
+ {
+   "AirportCode": "LWS",
+   "ServiceArea": "GEG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "LWT",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "LYH",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "MAF",
+   "ServiceArea": "MAF",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "MBL",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "MBS",
+   "ServiceArea": "DTW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "MCE",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "MCI",
+   "ServiceArea": "MCI",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "MCK",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.25
+ },
+ {
+   "AirportCode": "MCN",
+   "ServiceArea": "ATL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "MCO",
+   "ServiceArea": "MCO",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "MCW",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "MDT",
+   "ServiceArea": "BWI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "MDW",
+   "ServiceArea": "MDW",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "MEI",
+   "ServiceArea": "PNS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "MEM",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "MFE",
+   "ServiceArea": "CRP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "MFR",
+   "ServiceArea": "MFR",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "MGM",
+   "ServiceArea": "PNS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "MGW",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "MHK",
+   "ServiceArea": "MCI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "MHT",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "MIA",
+   "ServiceArea": "MIA",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "MKE",
+   "ServiceArea": "ORD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "MKG",
+   "ServiceArea": "ORD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "MKK",
+   "ServiceArea": "HNL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "MKL",
+   "ServiceArea": "BNA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "MLB",
+   "ServiceArea": "MCO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "MLI",
+   "ServiceArea": "ORD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "MLS",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "MLU",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "MOB",
+   "ServiceArea": "PNS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "MOD",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "MOT",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "MRY",
+   "ServiceArea": "SFO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "MSL",
+   "ServiceArea": "BNA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "MSN",
+   "ServiceArea": "ORD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "MSO",
+   "ServiceArea": "GEG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "MSP",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "MSS",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5
+ },
+ {
+   "AirportCode": "MSY",
+   "ServiceArea": "MSY",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "MTJ",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "MVY",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "MWA",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "MYR",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "NA1",
+   "ServiceArea": "MIA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.25
+ },
+ {
+   "AirportCode": "NA2",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "NA3",
+   "ServiceArea": "IAD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "NA4",
+   "ServiceArea": "EWR",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "NYL",
+   "ServiceArea": "SAN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "OAJ",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "OAK",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "OGG",
+   "ServiceArea": "HNL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "OGS",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "OKC",
+   "ServiceArea": "OKC",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "OMA",
+   "ServiceArea": "OMA",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "OME",
+   "ServiceArea": "FAI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "ONT",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "ORD",
+   "ServiceArea": "ORD",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "ORF",
+   "ServiceArea": "DCA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "ORH",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "OTH",
+   "ServiceArea": "MFR",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "OTZ",
+   "ServiceArea": "FAI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "OWB",
+   "ServiceArea": "BNA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "OXR",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "PAH",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "PBG",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "PBI",
+   "ServiceArea": "FLL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "PDT",
+   "ServiceArea": "GEG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "PDX",
+   "ServiceArea": "PDX",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "PFN",
+   "ServiceArea": "PNS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "PGA",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.5
+ },
+ {
+   "AirportCode": "PGV",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "PHF",
+   "ServiceArea": "DCA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "PHL",
+   "ServiceArea": "PHL",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "PHX",
+   "ServiceArea": "PHX",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "PIA",
+   "ServiceArea": "MDW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "PIB",
+   "ServiceArea": "MSY",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "PIE",
+   "ServiceArea": "TPA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.25
+ },
+ {
+   "AirportCode": "PIH",
+   "ServiceArea": "SLC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "PIR",
+   "ServiceArea": "RAP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "PIT",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "PKB",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "PLN",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.5
+ },
+ {
+   "AirportCode": "PMD",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "PNS",
+   "ServiceArea": "PNS",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "PPG",
+   "ServiceArea": "HNL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "PQI",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "PRC",
+   "ServiceArea": "PHX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "PSC",
+   "ServiceArea": "GEG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "PSE",
+   "ServiceArea": "SJU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "PSG",
+   "ServiceArea": "JNU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "PSM",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "PSP",
+   "ServiceArea": "SAN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "PUB",
+   "ServiceArea": "DEN",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "PUW",
+   "ServiceArea": "GEG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "PVC",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "PVD",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "PWM",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "RAP",
+   "ServiceArea": "RAP",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "RDD",
+   "ServiceArea": "MFR",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "RDG",
+   "ServiceArea": "PHL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "RDM",
+   "ServiceArea": "PDX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "RDU",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "RFD",
+   "ServiceArea": "ORD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "RHI",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "RIC",
+   "ServiceArea": "DCA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "RIW",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.25
+ },
+ {
+   "AirportCode": "RKD",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "RKS",
+   "ServiceArea": "SLC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "RME",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "RNO",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.5
+ },
+ {
+   "AirportCode": "ROA",
+   "ServiceArea": "RDU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "ROC",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "ROW",
+   "ServiceArea": "ELP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "RST",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "RSW",
+   "ServiceArea": "FLL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "RUT",
+   "ServiceArea": "BOS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "SAF",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "SAN",
+   "ServiceArea": "SAN",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "SAT",
+   "ServiceArea": "CRP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "SAV",
+   "ServiceArea": "SAV",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "SAW",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "SBA",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "SBN",
+   "ServiceArea": "MDW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "SBP",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "SBY",
+   "ServiceArea": "BWI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "SCC",
+   "ServiceArea": "FAI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "SCK",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "SDF",
+   "ServiceArea": "CVG",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "SDY",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "SEA",
+   "ServiceArea": "SEA",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "SFB",
+   "ServiceArea": "MCO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.5
+ },
+ {
+   "AirportCode": "SFO",
+   "ServiceArea": "SFO",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "SGF",
+   "ServiceArea": "MCI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "SGU",
+   "ServiceArea": "LAS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "SHD",
+   "ServiceArea": "IAD",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "SHR",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "SHV",
+   "ServiceArea": "DFW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "SIT",
+   "ServiceArea": "JNU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.25
+ },
+ {
+   "AirportCode": "SJC",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.75
+ },
+ {
+   "AirportCode": "SJT",
+   "ServiceArea": "MAF",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "SJU",
+   "ServiceArea": "SJU",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "SLC",
+   "ServiceArea": "SLC",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "SLE",
+   "ServiceArea": "PDX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "SLK",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5.5
+ },
+ {
+   "AirportCode": "SLN",
+   "ServiceArea": "MCI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "SMF",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "SMX",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "SNA",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.75
+ },
+ {
+   "AirportCode": "SOW",
+   "ServiceArea": "PHX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "SPI",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.25
+ },
+ {
+   "AirportCode": "SPS",
+   "ServiceArea": "OKC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "SRQ",
+   "ServiceArea": "TPA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1
+ },
+ {
+   "AirportCode": "STC",
+   "ServiceArea": "MSP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "STL",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "STS",
+   "ServiceArea": "OAK",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "STT",
+   "ServiceArea": "SJU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "STX",
+   "ServiceArea": "SJU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "SUN",
+   "ServiceArea": "BOI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "SUX",
+   "ServiceArea": "OMA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "SWF",
+   "ServiceArea": "LGA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "SYR",
+   "ServiceArea": "ROC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "TBN",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4
+ },
+ {
+   "AirportCode": "TEX",
+   "ServiceArea": "DRO",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "TLH",
+   "ServiceArea": "PNS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "TNI",
+   "ServiceArea": "GUM",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 8
+ },
+ {
+   "AirportCode": "TOL",
+   "ServiceArea": "DTW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ },
+ {
+   "AirportCode": "TPA",
+   "ServiceArea": "TPA",
+   "Priority": 1,
+   "IsBase": true,
+   "CMTravelTime": 0
+ },
+ {
+   "AirportCode": "TRI",
+   "ServiceArea": "CLT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "TUL",
+   "ServiceArea": "OKC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "TUP",
+   "ServiceArea": "BNA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 5
+ },
+ {
+   "AirportCode": "TUS",
+   "ServiceArea": "PHX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.5
+ },
+ {
+   "AirportCode": "TVC",
+   "ServiceArea": "GRB",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "TVF",
+   "ServiceArea": "BIS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6.25
+ },
+ {
+   "AirportCode": "TWF",
+   "ServiceArea": "BOI",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "TXK",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "TYR",
+   "ServiceArea": "DFW",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.75
+ },
+ {
+   "AirportCode": "TYS",
+   "ServiceArea": "BNA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "UIN",
+   "ServiceArea": "STL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "UNV",
+   "ServiceArea": "PIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2.75
+ },
+ {
+   "AirportCode": "UTA",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "VCT",
+   "ServiceArea": "CRP",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 2
+ },
+ {
+   "AirportCode": "VDZ",
+   "ServiceArea": "ANC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 6
+ },
+ {
+   "AirportCode": "VEL",
+   "ServiceArea": "SLC",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.5
+ },
+ {
+   "AirportCode": "VIS",
+   "ServiceArea": "LAX",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "VLD",
+   "ServiceArea": "SAV",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.75
+ },
+ {
+   "AirportCode": "VPS",
+   "ServiceArea": "PNS",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.25
+ },
+ {
+   "AirportCode": "WRG",
+   "ServiceArea": "JNU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.25
+ },
+ {
+   "AirportCode": "WRL",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3.25
+ },
+ {
+   "AirportCode": "WYS",
+   "ServiceArea": "BIL",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.75
+ },
+ {
+   "AirportCode": "XNA",
+   "ServiceArea": "LIT",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 4.25
+ },
+ {
+   "AirportCode": "YAK",
+   "ServiceArea": "JNU",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 0.25
+ },
+ {
+   "AirportCode": "YKM",
+   "ServiceArea": "SEA",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 3
+ },
+ {
+   "AirportCode": "YNG",
+   "ServiceArea": "CLE",
+   "Priority": 1,
+   "IsBase": false,
+   "CMTravelTime": 1.5
+ }
+]);

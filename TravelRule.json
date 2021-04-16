@@ -1,0 +1,9 @@
+use iraddb
+db.travelRule.insert([
+ {
+   "TravelRuleID": "DEFAULT",
+   "PerDiemDistance": 50,
+   "FirstDay": 0.75,
+   "LastDay": 0.75
+ }
+]);

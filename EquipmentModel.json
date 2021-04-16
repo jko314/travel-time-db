@@ -1,0 +1,150 @@
+use iraddb
+db.equipmentModel.insert([
+ {
+   "EquipmentType": "AIT",
+   "Manufacturer": "L3",
+   "Model": "ProVision",
+   "OEM": "L3",
+   "Type": "AIT"
+ },
+ {
+   "EquipmentType": "XRAY",
+   "Manufacturer": "L3",
+   "Model": "AT2",
+   "OEM": "L3",
+   "Type": "XRAY"
+ },
+ {
+   "EquipmentType": "ATXRAY",
+   "Manufacturer": "Rapiscan",
+   "Model": "620DV",
+   "OEM": "Rapiscan",
+   "Type": "ATXRAY"
+ },
+ {
+   "EquipmentType": "ATXRAY",
+   "Manufacturer": "Rapiscan",
+   "Model": "DVAT2",
+   "OEM": "Rapiscan",
+   "Type": "ATXRAY"
+ },
+ {
+   "EquipmentType": "ATXRAY",
+   "Manufacturer": "Smiths",
+   "Model": "Smiths AT",
+   "OEM": "Smiths",
+   "Type": "ATXRAY"
+ },
+ {
+   "EquipmentType": "ATXRAY",
+   "Manufacturer": "Smiths",
+   "Model": "ATIX2",
+   "OEM": "Smiths",
+   "Type": "ATXRAY"
+ },
+ {
+   "EquipmentType": "BLS",
+   "Manufacturer": "CEIA",
+   "Model": "BLS",
+   "OEM": "CEIA",
+   "Type": "BLS"
+ },
+ {
+   "EquipmentType": "BLS",
+   "Manufacturer": "Smiths",
+   "Model": "Responder",
+   "OEM": "Smiths",
+   "Type": "BLS"
+ },
+ {
+   "EquipmentType": "WTMD",
+   "Manufacturer": "CEIA",
+   "Model": "02PN20",
+   "OEM": "CEIA",
+   "Type": "WTMD"
+ },
+ {
+   "EquipmentType": "WTMD",
+   "Manufacturer": "Garrett",
+   "Model": "PD6500i",
+   "OEM": "Garrett",
+   "Type": "WTMD"
+ },
+ {
+   "EquipmentType": "ETD",
+   "Manufacturer": "Morpho",
+   "Model": "ITEMISER",
+   "OEM": "Morpho",
+   "Type": "ETD"
+ },
+ {
+   "EquipmentType": "ETD",
+   "Manufacturer": "Morpho",
+   "Model": "ITEMISER DX",
+   "OEM": "Morpho",
+   "Type": "ETD"
+ },
+ {
+   "EquipmentType": "ETD",
+   "Manufacturer": "Smiths",
+   "Model": "IONSCAN 500DT-S",
+   "OEM": "Smiths",
+   "Type": "ETD"
+ },
+ {
+   "EquipmentType": "ETD",
+   "Manufacturer": "Smiths",
+   "Model": "IONSCAN 400B",
+   "OEM": "Smiths",
+   "Type": "ETD"
+ },
+ {
+   "EquipmentType": "ETD",
+   "Manufacturer": "Implant",
+   "Model": "QS-B220",
+   "OEM": "Implant",
+   "Type": "ETD"
+ },
+ {
+   "EquipmentType": "HHETD",
+   "Manufacturer": "Smiths",
+   "Model": "SABRE 4000",
+   "OEM": "Smiths",
+   "Type": "HHETD"
+ },
+ {
+   "EquipmentType": "ETD",
+   "Manufacturer": "Smiths",
+   "Model": "MMTD",
+   "OEM": "Smiths",
+   "Type": "ETD"
+ },
+ {
+   "EquipmentType": "XRAY",
+   "Manufacturer": "Rapiscan",
+   "Model": "520B/TRXU",
+   "OEM": "Rapiscan",
+   "Type": "XRAY"
+ },
+ {
+   "EquipmentType": "XRAY",
+   "Manufacturer": "Rapiscan",
+   "Model": "522B/TRXU",
+   "OEM": "Rapiscan",
+   "Type": "XRAY"
+ },
+ {
+   "EquipmentType": "XRAY",
+   "Manufacturer": "Smiths",
+   "Model": "6040i",
+   "OEM": "Smiths",
+   "Type": "XRAY"
+ },
+ {
+   "EquipmentType": "XRAY",
+   "Manufacturer": "Smiths",
+   "Model": "7555i",
+   "OEM": "Smiths",
+   "Type": "XRAY"
+ }
+]);

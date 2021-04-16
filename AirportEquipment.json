@@ -1,0 +1,1005 @@
+use iraddb
+db.airportEquipment.insert([
+ {
+   "Airport": "ABE",
+   "Model": "620DV",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ACV",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ACY",
+   "Model": "DVAT2",
+   "Count": 5,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ADK",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ADQ",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ALB",
+   "Model": "DVAT2",
+   "Count": 6,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "AMA",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ANC",
+   "Model": "620DV",
+   "Count": 7,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ANC",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "AOO",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "APF",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "APN",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ATL",
+   "Model": "620DV",
+   "Count": 36,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ATL",
+   "Model": "DVAT2",
+   "Count": 14,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "AUS",
+   "Model": "620DV",
+   "Count": 13,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "AUS",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "BET",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "BFD",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "BOI",
+   "Model": "DVAT2",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "BQN",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "BRW",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "BZN",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "BZN",
+   "Model": "DVAT2",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "CAE",
+   "Model": "DVAT2",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "CEC",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "CEZ",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "CMH",
+   "Model": "620DV",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "CMH",
+   "Model": "DVAT2",
+   "Count": 10,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "COD",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "COS",
+   "Model": "DVAT2",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "CRQ",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "CYS",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "DAY",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "DAY",
+   "Model": "DVAT2",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "DIK",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "DRO",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "DRT",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "DVL",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ELP",
+   "Model": "DVAT2",
+   "Count": 5,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ENV",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "EWR",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "EWR",
+   "Model": "620DV",
+   "Count": 40,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "EWR",
+   "Model": "DVAT2",
+   "Count": 6,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-BAT",
+   "Model": "522B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-FBI",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-FLE",
+   "Model": "620DV",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-FLE",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-SNL",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-TAB",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-TML",
+   "Model": "620DV",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-TSIF",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-TSIF",
+   "Model": "620DV",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-TSIF",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-TSL",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-TSL",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "F-TSL",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "FAI",
+   "Model": "620DV",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "FAR",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "FAT",
+   "Model": "620DV",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "FKL",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "FLL",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "FLL",
+   "Model": "620DV",
+   "Count": 9,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "FLL",
+   "Model": "DVAT2",
+   "Count": 25,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "FNL",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "FSD",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "GJT",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "GJT",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "GLH",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "GRK",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "GSN",
+   "Model": "620DV",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "GSO",
+   "Model": "DVAT2",
+   "Count": 6,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "GUM",
+   "Model": "620DV",
+   "Count": 5,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "HDN",
+   "Model": "620DV",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "HTS",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "HVR",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ICT",
+   "Model": "DVAT2",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "IDA",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "IND",
+   "Model": "620DV",
+   "Count": 12,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "IPT",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "IRK",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ITO",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "IWA",
+   "Model": "522B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "IWA",
+   "Model": "DVAT2",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "IWD",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "JFK",
+   "Model": "620DV",
+   "Count": 52,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "JFK",
+   "Model": "DVAT2",
+   "Count": 15,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "JMS",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "JQF",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "KOA",
+   "Model": "620DV",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "KOA",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "LAX",
+   "Model": "620DV",
+   "Count": 73,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "LAX",
+   "Model": "DVAT2",
+   "Count": 8,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "LCK",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "LGB",
+   "Model": "620DV",
+   "Count": 5,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "LIH",
+   "Model": "620DV",
+   "Count": 5,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "LIT",
+   "Model": "DVAT2",
+   "Count": 5,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "LMT",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "LNS",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "LNY",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "MCN",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "MKK",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "MSN",
+   "Model": "620DV",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "MSN",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "MSS",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "MSY",
+   "Model": "520B/TRXU",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "MSY",
+   "Model": "522B/TRXU",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "MTJ",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "NYL",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "OGG",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "OGG",
+   "Model": "DVAT2",
+   "Count": 6,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "OLF",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "OME",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ORD",
+   "Model": "620DV",
+   "Count": 51,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "ORD",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "OTZ",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PBI",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PBI",
+   "Model": "DVAT2",
+   "Count": 12,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PHL",
+   "Model": "620DV",
+   "Count": 21,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PHL",
+   "Model": "DVAT2",
+   "Count": 19,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PHX",
+   "Model": "620DV",
+   "Count": 37,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PHX",
+   "Model": "DVAT2",
+   "Count": 5,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PIR",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PIT",
+   "Model": "620DV",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PIT",
+   "Model": "DVAT2",
+   "Count": 9,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PLN",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PPG",
+   "Model": "620DV",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "PSG",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "RAP",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "RDU",
+   "Model": "620DV",
+   "Count": 7,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "RDU",
+   "Model": "DVAT2",
+   "Count": 8,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "RIW",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "RSW",
+   "Model": "620DV",
+   "Count": 8,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "RSW",
+   "Model": "DVAT2",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SAN",
+   "Model": "620DV",
+   "Count": 6,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SAN",
+   "Model": "DVAT2",
+   "Count": 24,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SAT",
+   "Model": "620DV",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SAT",
+   "Model": "DVAT2",
+   "Count": 7,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SBA",
+   "Model": "DVAT2",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SBN",
+   "Model": "DVAT2",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SCC",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SDY",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SEA",
+   "Model": "620DV",
+   "Count": 10,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SEA",
+   "Model": "DVAT2",
+   "Count": 26,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SGF",
+   "Model": "522B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SHR",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SJU",
+   "Model": "620DV",
+   "Count": 2,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SJU",
+   "Model": "DVAT2",
+   "Count": 12,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SLN",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SNA",
+   "Model": "620DV",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SNA",
+   "Model": "DVAT2",
+   "Count": 13,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "STL",
+   "Model": "620DV",
+   "Count": 5,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "STL",
+   "Model": "DVAT2",
+   "Count": 11,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "STT",
+   "Model": "620DV",
+   "Count": 6,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "STT",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "STX",
+   "Model": "620DV",
+   "Count": 3,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SWO",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SYR",
+   "Model": "520B/TRXU",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "SYR",
+   "Model": "DVAT2",
+   "Count": 4,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "TTN",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "TTN",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "TUS",
+   "Model": "620DV",
+   "Count": 6,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "TVC",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "TVC",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "VRB",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "WRG",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "WYS",
+   "Model": "DVAT2",
+   "Count": 1,
+   "SerialNum": ""
+ },
+ {
+   "Airport": "YAK",
+   "Model": "620DV",
+   "Count": 1,
+   "SerialNum": ""
+ }
+]);

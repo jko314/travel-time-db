@@ -1,0 +1,11 @@
+db.travelMode.insert([
+ {
+   "Origin": "",
+   "Destination": "",
+   "Mode": "",
+   "Parking": "",
+   "DriveMiles": "",
+   "Fare": "",
+   "Traveltime": ""
+ }
+]);
